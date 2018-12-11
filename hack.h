@@ -1,0 +1,1 @@
+void hack(char* ans, int size);
